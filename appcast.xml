@@ -9,9 +9,9 @@
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <enclosure 
                 url="https://github.com/ank1ish00/SysteMattic-Updates/releases/download/v1.0.1/SysteMattic.zip" 
-                length="0" 
+                length="1680427" 
                 type="application/octet-stream" 
-                sparkle:edSignature="PASTE_SIGNATURE_HERE" />
+                sparkle:edSignature="nFSsPUpp3iorP78bl/Yg3LeeqgyOwjmMym+BiHgN610INGsGYzMN5MV8VEWZ4QuBzGk4u8Yp6B1CvFp9kNkWBQ==" />
         </item>
     </channel>
 </rss>
