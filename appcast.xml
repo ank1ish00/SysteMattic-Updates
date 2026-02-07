@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>SysteMattic Updates</title>
+        <item>
+            <title>Version 1.0.1</title>
+            <pubDate>Sat, 07 Feb 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <enclosure 
+                url="https://github.com/ank1ish00/SysteMattic-Updates/releases/download/v1.0.1/SysteMattic.zip" 
+                length="0" 
+                type="application/octet-stream" 
+                sparkle:edSignature="PASTE_SIGNATURE_HERE" />
+        </item>
+    </channel>
+</rss>
