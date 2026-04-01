@@ -12,9 +12,9 @@
             <enclosure url="https://raw.githubusercontent.com/ank1ish00/SysteMattic-Updates/main/SysteMattic.zip"
                        sparkle:version="2"
                        sparkle:shortVersionString="1.0.1"
-                       length="13203628"
+                       length="13203649"
                        type="application/octet-stream"
-                       sparkle:edSignature="RLezcIPmHWz5cMn0qHYki51h20HY9iypY68T2KfeA+AwO5SRwlmOPXBcFvrNEN+FYlwoB+zIowxSTJ6IDVPhDg==" />
+                       sparkle:edSignature="HFp/HNZHdYui5U069tPFfnpTxIWisJ5534txjJ+shGXBcaFD9sgicN6HFtYnWi+g44pRH0bXrF2sGN4zx4iyAQ==" />
         </item>
     </channel>
 </rss>
