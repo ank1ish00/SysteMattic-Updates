@@ -10,11 +10,11 @@
             <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/ank1ish00/SysteMattic-Updates/main/SysteMattic.zip"
-                       sparkle:version="2"
+                       sparkle:version="3"
                        sparkle:shortVersionString="1.0.1"
-                       length="13203649"
+                       length="13203469"
                        type="application/octet-stream"
-                       sparkle:edSignature="HFp/HNZHdYui5U069tPFfnpTxIWisJ5534txjJ+shGXBcaFD9sgicN6HFtYnWi+g44pRH0bXrF2sGN4zx4iyAQ==" />
+                       sparkle:edSignature="plfs9tl9gDKhIhfmKMvFBVs1+x/k5yHJoWsfkeTimavqhB32eWl8U0ButZIlgitdBLkMaKgYqudeJcDv9GzSAg==" />
         </item>
     </channel>
 </rss>
