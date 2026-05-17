@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>SysteMattic Updates</title>
-        <link>https://raw.githubusercontent.com/ank1ish00/SysteMattic-Updates/main/appcast.xml</link>
+        <title>Tradematic Updates</title>
+        <link>https://raw.githubusercontent.com/ank1ish00/Tradematic-Updates/main/appcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
+        
         <item>
-            <title>Version 1.0.1 - Performance Boost</title>
-            <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+            <title>Version 1.0.0 - Official Launch</title>
+            <pubDate>Sun, 17 May 2026 17:00:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/ank1ish00/SysteMattic-Updates/main/SysteMattic.zip"
-                       sparkle:version="3"
-                       sparkle:shortVersionString="1.0.1"
-                       length="13203469"
+            <enclosure url="https://raw.githubusercontent.com/ank1ish00/Tradematic-Updates/main/Tradematic.zip"
+                       sparkle:version="1" 
+                       sparkle:shortVersionString="1.0.0"
+                       length="INSERT_YOUR_ZIP_SIZE_IN_BYTES"
                        type="application/octet-stream"
-                       sparkle:edSignature="plfs9tl9gDKhIhfmKMvFBVs1+x/k5yHJoWsfkeTimavqhB32eWl8U0ButZIlgitdBLkMaKgYqudeJcDv9GzSAg==" />
+                       sparkle:edSignature="INSERT_YOUR_EDDSA_SIGNATURE" />
         </item>
     </channel>
 </rss>
