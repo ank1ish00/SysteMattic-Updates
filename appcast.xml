@@ -13,9 +13,9 @@
             <enclosure url="https://raw.githubusercontent.com/ank1ish00/Tradematic-Updates/main/Tradematic.zip"
                        sparkle:version="1" 
                        sparkle:shortVersionString="1.0.0"
-                       length="INSERT_YOUR_ZIP_SIZE_IN_BYTES"
+                       length="13866000"
                        type="application/octet-stream"
-                       sparkle:edSignature="INSERT_YOUR_EDDSA_SIGNATURE" />
+                       sparkle:edSignature="bky0yj54LiR8HC4HFwh1vkDYkhQLfPspTZg9qTGm1VpOsvDDW6NaTx32sxdx6KRh0Za9et/FooJplsVmfl3GDQ==" />
         </item>
     </channel>
 </rss>
