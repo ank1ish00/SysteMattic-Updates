@@ -7,6 +7,18 @@
         <language>en</language>
         
         <item>
+            <title>Version 1.0.1 - Terminal Branding Update</title>
+            <pubDate>Wed, 20 May 2026 18:44:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/ank1ish00/Tradematic-Updates/main/Tradematic.zip"
+                       sparkle:version="2"
+                       sparkle:shortVersionString="1.0.1"
+                       length="27760147"
+                       type="application/octet-stream"
+                       sparkle:edSignature="TAH+3hTdU/YQgPfcDSY/7QpBy3zdjuuwMplI6/GSanmRJLurQbTuDvikjkLxrWxK6KNe59h3bxgoU5Zo7Mh+CQ==" />
+        </item>
+
+        <item>
             <title>Version 1.0.0 - Official Launch</title>
             <pubDate>Sun, 17 May 2026 17:00:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
@@ -17,5 +29,6 @@
                        type="application/octet-stream"
                        sparkle:edSignature="bky0yj54LiR8HC4HFwh1vkDYkhQLfPspTZg9qTGm1VpOsvDDW6NaTx32sxdx6KRh0Za9et/FooJplsVmfl3GDQ==" />
         </item>
+        
     </channel>
 </rss>
