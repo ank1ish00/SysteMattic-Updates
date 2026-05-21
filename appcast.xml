@@ -7,6 +7,18 @@
         <language>en</language>
         
         <item>
+            <title>Version 1.0.2 - UI Color Calibration</title>
+            <pubDate>Thu, 21 May 2026 20:52:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ank1ish00/SysteMattic-Updates/releases/download/v1.0.2/Tradematic.zip"
+                       sparkle:version="3"
+                       sparkle:shortVersionString="1.0.2"
+                       length="27760123"
+                       type="application/octet-stream"
+                       sparkle:edSignature="BdvH2hxffvO7vuGp9Jc1hnEvAH6FGR2+qq5xDSD16Whm/Rg72QrAcPGrziIR9oStma84JJdTZ0cNLS+Pr7BYDg==" />
+        </item>
+
+        <item>
             <title>Version 1.0.1 - Terminal Branding Update</title>
             <pubDate>Wed, 20 May 2026 18:44:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
