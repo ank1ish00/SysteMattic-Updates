@@ -7,6 +7,18 @@
         <language>en</language>
         
         <item>
+            <title>Version 1.0.5 - Gatekeeper Guard Installation Shield</title>
+            <pubDate>Sun, 24 May 2026 21:15:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ank1ish00/SysteMattic-Updates/releases/download/v1.0.5/Tradematic.zip"
+                       sparkle:version="6"
+                       sparkle:shortVersionString="1.0.5"
+                       length="28355723"
+                       type="application/octet-stream"
+                       sparkle:edSignature="0PMcQvs0VsfFN3u8w8OYCby0PX/GMCaerCM6eDEzrROG2usipaHWrqvAO1KIGoPFdegSfDIyUaUywrUPTYWOCg==" />
+        </item>
+
+        <item>
             <title>Version 1.0.4 - Daily Check-In Optimization</title>
             <pubDate>Sat, 23 May 2026 20:53:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
