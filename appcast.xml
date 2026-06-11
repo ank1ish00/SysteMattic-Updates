@@ -5,6 +5,18 @@
         <link>https://raw.githubusercontent.com/ank1ish00/SysteMattic-Updates/main/appcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
+
+        <item>
+            <title>Version 1.0.7 - AI Coaching Stability Update</title>
+            <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ank1ish00/SysteMattic-Updates/releases/download/v1.0.7/Tradematic.zip"
+                       sparkle:version="8"
+                       sparkle:shortVersionString="1.0.7"
+                       length="28449203"
+                       type="application/octet-stream"
+                       sparkle:edSignature="renV6BapCU68jFrvFryy8Px4ub3x1rjR3osPGQ0EF0QdXmPv8f8U7hUTuBCTDgMt3cRv+1XjYdOZrHt1umglDQ==" />
+        </item>
         
         <item>
             <title>Version 1.0.6 - Live Production Environment Update</title>
