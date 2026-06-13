@@ -7,6 +7,18 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.10 - Update Experience Polish</title>
+            <pubDate>Sat, 13 Jun 2026 13:00:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ank1ish00/SysteMattic-Updates/releases/download/v1.0.10/Tradematic.zip"
+                       sparkle:version="11"
+                       sparkle:shortVersionString="1.0.10"
+                       length="28504114"
+                       type="application/octet-stream"
+                       sparkle:edSignature="2RY7Nwn1zlI6M0UJzjxMYHtQeNzpgdxYUgiWENRez0J1BbK5uKMpXcVDHGK1Q4xYrRGVKcltqUYxS8N3PO0NBw==" />
+        </item>
+
+        <item>
             <title>Version 1.0.9 - Native Update Experience</title>
             <pubDate>Sat, 13 Jun 2026 12:00:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
